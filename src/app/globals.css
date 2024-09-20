@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+  
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.hero-heading {
+    @apply text-red-700 text-2xl font-bold
+}
+
+.contac-heading{
+    @apply text-red-700 text-2xl font-bold
+}
+
+.about-heading{
+    @apply text-red-700 text-2xl font-bold
+}
