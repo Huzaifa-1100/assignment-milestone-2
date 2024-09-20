@@ -17,11 +17,11 @@ function Hero() {
           This is hero section
         </h1>
         <p className="text-justify">
-          Creating a web page is like building a digital home on the internet.
+          {`Creating a web page is like building a digital home on the internet.
           It's where design meets functionality, and where content comes to life
           for users to explore. Every web page is crafted with a blend of code
           and creativity, bringing together elements like text, images, and
-          interactive features to deliver a seamless user experience.
+          interactive features to deliver a seamless user experience.`}
         </p>
       </div>
     </div>
