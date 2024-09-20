@@ -4,7 +4,7 @@ function Contact() {
     <div className="h-screen">
       <div className="absolute -z-10 w-full">
         <Image
-          className="w-full h-screen  "
+          className="w-full h-screen"
           src={require("../../../public/assets/picutres/bg2.jpg")}
           alt="background Image"
           width={500}
